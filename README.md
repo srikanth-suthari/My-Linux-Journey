@@ -1,6 +1,5 @@
-# My_Linux_Journey
+# My Linux Journey
 
 Learning Log by Day:
 
-Day 1: The Adventure Begins - Core Concepts & Navigation
-Day 2: Manipulating Files & Understanding Permissions
+# Day 1: Setup & Basic Navigation
