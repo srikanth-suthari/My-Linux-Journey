@@ -15,7 +15,7 @@ My objective was to **install a Linux distribution** in a virtual machine and le
 - **The Shell:** The terminal is my new workspace. I learned that the **shell (Bash)** is the program that takes my commands and tells the OS what to do.
 - **My Location:** I now understand the concept of the **home directory (`~`)** as my personal space and the **root directory (`/`)** as the top-level folder for the entire system.
 
-
+![download](https://github.com/user-attachments/assets/5754afab-33b3-49d8-a62a-91596f2b5d0f)
 
 ---
 
