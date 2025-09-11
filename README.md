@@ -2,4 +2,4 @@
 
 Learning Log by Day:
 
-Day 1: Setup & Basic Navigation
+* **[Day 1: Setup & Basic Navigation](#Day-1:-Setup-&-Basic-Navigation)**
