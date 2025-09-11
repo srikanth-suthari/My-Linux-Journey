@@ -1,4 +1,4 @@
-# My Linux Journey
+# 🐧 My Linux Journey 🐧
 
 Learning Log by Day:
 
