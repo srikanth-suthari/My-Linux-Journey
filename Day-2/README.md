@@ -6,6 +6,7 @@ Day two is in the books! After learning how to navigate yesterday, today was all
 
 ### ## Today's Goal
 My objective was to **create, manage, and view the contents of files and directories** directly from the terminal, solidifying my understanding of the basic commands that are used every day.
+<img width="825" height="219" alt="8 -mkdir-command" src="https://github.com/user-attachments/assets/2fea6c30-491c-4d58-a9d8-ddd588a42ba9" />
 
 ---
 
