@@ -36,8 +36,6 @@ Reading package lists... Done
 2. Search for the Package:
 I wanted to make sure I had the right name for the package, so I used apt search.
 
-Bash
-
 $ apt search htop
 Sorting... Done
 Full Text Search... Done
@@ -45,8 +43,6 @@ htop/jammy 2.2.0-2build1 amd64
   interactive processes viewer
 3. Install the Package:
 Once I confirmed the name was htop, I installed it. apt showed me what would be installed and asked for confirmation.
-
-Bash
 
 $ sudo apt install htop
 Reading package lists... Done
@@ -61,13 +57,9 @@ Do you want to continue? [Y/n] Y
 4. Run the Program:
 With the installation complete, I just had to type the command to run it. The interactive interface is a huge improvement!
 
-Bash
-
 htop
 5. Remove the Package:
 After exploring htop, I removed it using sudo apt remove.
-
-Bash
 
 $ sudo apt remove htop
 Reading package lists... Done
@@ -78,5 +70,6 @@ The following packages will be REMOVED:
 0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
 After this operation, 238 kB disk space will be freed.
 Do you want to continue? [Y/n] Y
+
 6. Clean Up (Bonus):
 I learned that sudo apt autoremove is a good command to run periodically to remove any dependencies that were installed for packages but are no longer needed.
