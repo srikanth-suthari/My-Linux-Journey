@@ -1,4 +1,4 @@
-## Today's Objective
+## Today's Objective I/O Redirection & Pipes
 To master controlling command input and output by redirecting to files and chaining commands together with pipes.
 
 ## Key Learnings
