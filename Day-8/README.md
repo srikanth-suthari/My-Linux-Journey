@@ -30,10 +30,12 @@ Today's task was to perform the full lifecycle of creating and configuring a use
 First, I created a group named testers that I could later assign users to.
 
 $ sudo groupadd testers
+
 2. Create a New User:
 Next, I created a new user, making sure to include the -m flag to create their home directory.
 
 $ sudo useradd -m tempuser
+
 3. Set a Password for the User:
 A new user account is locked until a password is set. The passwd command prompted me to enter and confirm a new password.
 
@@ -46,11 +48,13 @@ passwd: password updated successfully
 I used the usermod command with the -aG flags to add tempuser to the testers group.
 
 $ sudo usermod -aG testers tempuser
+
 5. Verify the Changes:
 The id command is perfect for checking a user's information. I could see that tempuser was now part of the testers group.
 
 $ id tempuser
 uid=1001(tempuser) gid=1001(tempuser) groups=1001(tempuser),1002(testers)
+
 6. Delete the User:
 Finally, I cleaned up by deleting the user. The -r flag is important here as it also removes the user's home directory.
 
