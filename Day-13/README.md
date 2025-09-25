@@ -1,4 +1,4 @@
-### 🐧 Day 13: Scripting with Logic
+# 🐧 Day 13: Scripting with Logic
 
 ## Today's Objective
 To make my scripts more "intelligent" by using if/else statements to perform actions based on specific conditions.
