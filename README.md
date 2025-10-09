@@ -30,4 +30,4 @@ Day 13: Scripting with Logic
 
 Day 14: Loops in Scripts
 
-Day 15: Final Project & Next Steps
+Day 15: Final Project & Next Steps.
