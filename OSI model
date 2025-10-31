@@ -1,0 +1,16 @@
+Linux Networking & Security
+
+LAN - Local Area Network
+Router or Gateway - We can connect to the internet through these and it is having fire wall 
+TCP | IP - Transfer control protocol can be used to transfer files or data through local internet
+with out tcp | ip we can’t do anything online and it is a protocol and tcp ip is a communication protocol which allows computers to talk to each other by address is known as ip address
+All ip addresses are assigned and getting from the DHCP  
+OSI Model is a networking model and it works in reverse order
+We have 7 layers in OSI model they are
+Layer 1 - Physical
+Layer 2 - Datalink
+Layer 3 - Network
+Layer 4 - Transport
+Layer 5 - Session
+Layer 6 - Presentation
+Layer 7 - Application
