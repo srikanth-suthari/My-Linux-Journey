@@ -1,0 +1,46 @@
+OS - Operating System 
+Kernel - Heart of OS, Interacts with hardware
+Shell - takes input from the user, passes to the kernel and gives output in terminal
+UNIX - Not portable because it has its own hardware
+
+Public Key - Inside the server
+Private Key - With the member or user
+server = box = node
+
+ssh-keygen -f file_name = this command is used to generate public and private key with the specified file name
+ssh-rsa <some code> username@computername = it is the structure of private key
+
+HTTPS uses 443 port protocol to connect on the web
+HTTP uses 80 port Number
+
+> - redirection —> it deletes the old content from the file and inputs the new content into it
+>> - appending —> it appends the content at the end of the former content
+
+grep command
+grep -i pattern - searches the pattern in case sensitive mode
+echo $? - command shows the success state of the last command
+
+curl - used to view the source at the console
+wget - used to download files from the web
+
+VIM Editor
+/ - to search patterns from the beginning of the file
+? - to search patterns from the end of the file
+: - colon mode
+:set nu - to set line numbers
+:set nu! or :set nonu - to unset line numbers
+:set ic - case insensitive [searches with capitals also]
+:set noic - case sensitive
+:noh - no highlighting the searched lines
+:q - to quit out of the file
+:linenumber - like :1, :20 etc
+:wq - to save and quit out of the file
+
+u - undo 
+yy - yank = copy
+10yy - 10 lines will be copied
+dd - cut
+10dd - 10 lines to the bottom will be cut
+p - paste - can paste specifying numbers with as :p10
+
+:s/<word-to-replace> /new-word
